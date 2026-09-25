@@ -1,2 +1,34 @@
 # PATIENCE-SQL-EXERCISE-1
-This SQL exercise was completed as part of my BrightLearn Data Analytics training. It helped me learn how to use SQL to work with data in a database. I practised using SQL statements such as SELECT, WHERE, AND, OR, IN, BETWEEN, LIMIT, ORDER BY,  and HAVING. I also learnt how to filter, sort, and organise data to find useful information
+
+BrightLearn SQL Exercise 
+1
+
+This repository contains my SQL exercise  from my BrightLearn Data Analytics training.
+
+I am learning how to use SQL to work with databases, retrieve information, and analyse data.
+
+Topics Covered
+SELECT statements
+WHERE clause
+AND and OR
+IN and BETWEEN
+NULL values
+ORDER BY
+
+
+Purpose
+The purpose of this repository is to practise SQL, keep track of my learning progress, and improve my data analysis skills.
+
+Tools Used
+SQL
+
+
+
+Learning Progress
+I am currently learning the fundamentals of SQL as part of my BrightLearn Data Analytics course.
+
+Author
+
+Patience Jambwa
+
+BrightLearn Data Analytics Student
